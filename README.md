@@ -1,8 +1,6 @@
-# KORIX Learning Center
+> **Looking for the real Learning Center?** → **[korixinc.com/learning-center](https://korixinc.com/learning-center/)**
 
-Articles by KORIX, originally published at <https://korixinc.com/learning-center/>.
-Republished here for open access. Each post declares its canonical URL, so search engines treat korixinc.com as the source-of-truth.
-
+Articles by KORIX, syndicated here so search engines discover them. Original content and latest updates live at the link above. Each post on this site declares a canonical URL pointing back to korixinc.com.
 
 ## 29 articles
 
@@ -38,4 +36,4 @@ Republished here for open access. Each post declares its canonical URL, so searc
 
 ---
 
-**KORIX** is an AI adoption agency. Visit [korixinc.com](https://korixinc.com).
+**KORIX** is an AI adoption agency. Visit **[korixinc.com](https://korixinc.com)**.
