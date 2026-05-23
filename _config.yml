@@ -4,6 +4,7 @@ url: https://korixinc.github.io
 baseurl: /korix-content
 theme: minima
 permalink: /:slug/
+future: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
