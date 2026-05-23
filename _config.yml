@@ -1,0 +1,9 @@
+title: KORIX Learning Center — archive
+description: Syndicated copies of korixinc.com/learning-center articles. Canonical URLs link back to the original on korixinc.com.
+url: https://korixinc.github.io
+baseurl: /korix-content
+theme: minima
+permalink: /:slug/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
