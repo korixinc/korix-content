@@ -52,7 +52,7 @@ The word that matters most here is _decides_. An agent exercises judgment inside
 ## AI agent vs chatbot: the side-by-side comparison
 
 | Dimension | Chatbot | AI Agent |
-| --- | --- | --- |
+|---|---|---|
 | **Core job** | Answer a question | Achieve a goal |
 | **Capabilities** | Recognise intent, retrieve or script a reply | Reason, plan, choose tools, execute multi-step tasks |
 | **Decisions** | None, or fixed decision-tree branches | Makes judgment calls within a defined boundary |
