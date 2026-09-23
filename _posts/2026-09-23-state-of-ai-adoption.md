@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Most AI Pilots Never Reach Production | KORIX"
+title: "Why Most AI Pilots Never Reach Production"
 canonical_url: "https://korixinc.com/learning-center/state-of-ai-adoption"
 description: "MIT found only ~5% of enterprise AI pilots reach production while Gartner expects up to half abandoned. KORIX shipped 4 of 4 — here is the data and the fix."
 tags: ["AI", "Enterprise AI", "B2B"]
